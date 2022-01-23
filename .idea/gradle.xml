@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="1.8 (2)" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/carddemo" />
+            <option value="$PROJECT_DIR$/commongestures" />
+            <option value="$PROJECT_DIR$/explicitintent" />
+            <option value="$PROJECT_DIR$/fabexample" />
+            <option value="$PROJECT_DIR$/fragmentexample" />
+            <option value="$PROJECT_DIR$/implicitintent" />
+            <option value="$PROJECT_DIR$/lifecycledemo" />
+            <option value="$PROJECT_DIR$/motionevent" />
+            <option value="$PROJECT_DIR$/motionlayoutdemo" />
+            <option value="$PROJECT_DIR$/mywebview" />
+            <option value="$PROJECT_DIR$/navigationdemo" />
+            <option value="$PROJECT_DIR$/primarydetailflow" />
+            <option value="$PROJECT_DIR$/sendbroadcast" />
+            <option value="$PROJECT_DIR$/statechange" />
+            <option value="$PROJECT_DIR$/tablayoutdemo" />
+            <option value="$PROJECT_DIR$/viewmodeldemo" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

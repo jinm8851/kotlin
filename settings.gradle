@@ -1,0 +1,26 @@
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+        jcenter() // Warning: this repository is going to shut down soon
+    }
+}
+rootProject.name = "Fox"
+include ':app'
+include ':statechange'
+include ':motionevent'
+include ':commongestures'
+include ':fragmentexample'
+include ':viewmodeldemo'
+include ':lifecycledemo'
+include ':navigationdemo'
+include ':motionlayoutdemo'
+include ':fabexample'
+include ':tablayoutdemo'
+include ':carddemo'
+include ':primarydetailflow'
+include ':explicitintent'
+include ':implicitintent'
+include ':mywebview'
+include ':sendbroadcast'
