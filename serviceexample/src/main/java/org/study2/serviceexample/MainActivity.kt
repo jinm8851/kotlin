@@ -6,7 +6,7 @@ import android.os.Bundle
 import android.util.Log
 import android.view.View
 import androidx.core.app.JobIntentService.enqueueWork
-
+//스타트서비스
 class MainActivity : AppCompatActivity() {
 
     val SERVICE_ID = 1001
