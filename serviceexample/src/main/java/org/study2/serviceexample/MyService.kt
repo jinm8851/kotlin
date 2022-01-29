@@ -20,8 +20,9 @@ class MyService : Service() {
 
     override fun onStartCommand(intent: Intent?, flags: Int, startId: Int): Int {
         //코루틴으로 메인쓰레드 밖에서 다른쓰레드로 돌려야한다
-        // ui만 메인쓰레드에서실행
-// 연습
+        
+        
+
 
         coroutineScope.launch(Dispatchers.Default){
             performTask(startId)
