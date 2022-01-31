@@ -7,7 +7,7 @@
         <option name="testRunner" value="GRADLE" />
         <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="gradleJvm" value="1.8 (2)" />
+        <option name="gradleJvm" value="11" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
@@ -15,6 +15,7 @@
             <option value="$PROJECT_DIR$/carddemo" />
             <option value="$PROJECT_DIR$/commongestures" />
             <option value="$PROJECT_DIR$/coroutinedemo" />
+            <option value="$PROJECT_DIR$/directreply" />
             <option value="$PROJECT_DIR$/explicitintent" />
             <option value="$PROJECT_DIR$/fabexample" />
             <option value="$PROJECT_DIR$/fragmentexample" />
