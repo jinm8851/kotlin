@@ -33,6 +33,7 @@
             <option value="$PROJECT_DIR$/sendbroadcast" />
             <option value="$PROJECT_DIR$/serviceexample" />
             <option value="$PROJECT_DIR$/statechange" />
+            <option value="$PROJECT_DIR$/storegedemo" />
             <option value="$PROJECT_DIR$/tablayoutdemo" />
             <option value="$PROJECT_DIR$/viewmodeldemo" />
           </set>
