@@ -12,6 +12,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/audioapp" />
             <option value="$PROJECT_DIR$/carddemo" />
             <option value="$PROJECT_DIR$/commongestures" />
             <option value="$PROJECT_DIR$/coroutinedemo" />
